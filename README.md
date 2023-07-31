@@ -6,7 +6,7 @@ IOT specialist, focused on innovation, prototyping and fast delivery of end-to-e
 
 - High performance network programming
 - Actor model for concurrent computation (Akka)
-- Strong working knowledge in industrial protocols (Modbus, CIP, DF1, Bacnet, Siemens, Alnet, etc)
+- Strong knowledge in industrial protocols (Modbus, CIP, DF1, Bacnet, Siemens, Alnet, etc)
 - Large experience in reverse engineer
 - Automation (Instrumentation, PLC and IHM)
 - Information Management (Scada, PIMS, LIMS, MES and InBatch)
