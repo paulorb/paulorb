@@ -13,13 +13,13 @@ IOT specialist, focused on innovation, prototyping and fast delivery of end-to-e
 - Products and Tools (Wonderware, Indusoft, Rockwell, Siemens, etc)
 
 
-  Languages
-  - C/C++
-  - Kotlin/Java
-  - PLC/Ladder
-  - Python
-  - Matlab
-  - R
+Languages
+- C/C++
+- Kotlin/Java
+- PLC/Ladder
+- Python
+- Matlab
+- R
 
  
   
