@@ -8,7 +8,7 @@ IOT specialist, focused on innovation, prototyping and fast delivery of end-to-e
 - Actor model for concurrent computation (Akka)
 - Strong knowledge in industrial protocols (Modbus, CIP, DF1, Bacnet, Siemens, Alnet, etc)
 - Large experience in reverse engineer
-- Automation (Instrumentation, PLC and IHM)
+- Automation (Instrumentation, PLC and HMI)
 - Information Management (Scada, PIMS, LIMS, MES and InBatch)
 - Products and Tools (Wonderware, Indusoft, Rockwell, Siemens, etc)
 
